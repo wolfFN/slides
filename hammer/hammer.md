@@ -1,3 +1,7 @@
+# HammerJS
+
+
+
 ### What For
 
 1. We are facing H5 pages development.  
@@ -51,7 +55,7 @@ myHammer.get('swipe').set({ direction: Hammer.DIRECTION_VERTICAL });
 ```
 
 
-###with jQuery
+### with jQuery
 *we've met this problem in yijianbanjia*
 ```javascript
 myElement.hammer({
